@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text='ᗜ'&fontColor=CCE5FF&fontAlign=50&fontAlignY=50&color=0:CCFFCC,100:0080ff)
 
-
+### 🛠 Tech Stack 🛠
 <h3 align=“center”>🛠 Tech Stack 🛠</h3>
 
 
