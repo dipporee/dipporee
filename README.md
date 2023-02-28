@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text='ᗜ'&fontColor=CCE5FF&fontAlign=50&fontAlignY=50&color=0:CCFFCC,100:0080ff)
 
 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipporee&show_icons=true&theme=merko)
 
