@@ -20,8 +20,10 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<h3 align=“center”>🛠 Tech Stack 🛠</h3>
-
+<h2 align=“center”>🛠 Tech Stack 🛠</h2>
+![img](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
+![img](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
+![img](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipporee&show_icons=true&theme=merko)
 
