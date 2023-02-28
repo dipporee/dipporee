@@ -14,19 +14,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text='ᗜ'&fontColor=CCE5FF&fontAlign=50&fontAlignY=50&color=0:CCFFCC,100:0080ff)
 
-
+<div align="center">
 
 <h2 align=“center”>🛠 Tech Stack 🛠</h2>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
 
-![img](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
-![img](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
-![img](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 
-<div align="center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipporee&show_icons=true&theme=merko)
 
 </div>
